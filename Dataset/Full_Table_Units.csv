@@ -1,0 +1,80 @@
+,Unit
+Site ID,-
+Sample Group,-
+Date,-
+Time Sampled,-
+Source,-
+Temp,deg. C
+DO,mg/L
+SC,µS/cm
+Field pH,pH unit
+Lab pH,pH unit
+Alkalinity,mg CaCO3/L
+Titration Date,-
+Gas Rover Reading,"ppm, max"
+F,mg/L
+Cl,mg/L
+SO4,mg/L
+Br,mg/L
+NO3,mg/L
+Al,mg/L
+Ba,mg/L
+Ca,mg/L
+Fe,mg/L
+K,mg/L
+Mg,mg/L
+Mn,mg/L
+Na,mg/L
+P,mg/L
+Si,mg/L
+Sr,mg/L
+Ti,mg/L
+Li,µg/L
+Be,µg/L
+Ni,µg/L
+Cu,µg/L
+As,µg/L
+Sr.1,µg/L
+Cd,µg/L
+Tl,µg/L
+Pb,µg/L
+U,µg/L
+87Sr/86Sr,-
+Error (internal) ± 2SE,-
+Ratios,-
+Benzene,µg/L
+Toluene,µg/L
+Ethylbenzene,µg/L
+"m,p-Xylene",µg/L
+o-Xylene,µg/L
+Methane,mg/L
+Ethane,mg/L
+Propane,mg/L
+δ13C1,‰
+δDC1,‰
+δ13C2,‰
+Mean (pCi/L),-
+SD,-
+High ,-
+Low,-
+mg C/L,-
+SD.1,-
+mol/L C,-
+[H+],-
+[OH-],-
+a0 [H2CO3],-
+a1 [HCO3-],-
+a2 [CO32-],-
+Alk (eq/L),-
+Alk (mg CaCO3/L),-
+226Ra (pCi/g),-
+228Ra (pCi/g),-
+228Ra / 226Ra,-
+226Ra Peak Error,-
+228Ra Peak Error,-
+Radon,pCi/L
+228Ra/226Ra,pCi/L
+Ra 226+228,pCi/L
+Ra226,pCi/L
+Ra228,pCi/L
+Xylene(total),μg/L

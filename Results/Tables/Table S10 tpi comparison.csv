@@ -1,0 +1,3 @@
+,Significant Difference,WMW,BM
+Valley vs. Ridge,Valley > Ridge,"['Ba', 'Methane']","['Ba', 'Methane']"
+Valley vs. Ridge,Valley < Ridge,"['SC', 'SO4', 'Ca', 'Li', 'Ni']","['SC', 'SO4', 'Al', 'Ca', 'Li', 'Ni']"

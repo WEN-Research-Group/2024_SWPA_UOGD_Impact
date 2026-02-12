@@ -1,0 +1,6 @@
+,Significant Difference,WMW,BM
+HS vs C,HS > C,"['NO3', 'K', 'U']","['Cl', 'NO3', 'K', 'U']"
+HS vs C,HS < C,"['P', 'Ethylbenzene']",['P']
+I vs C,I > C,"['Cl', 'Pb']","['Pb', 'Benzene']"
+I vs C,I < C,['P'],['P']
+S vs C,S > C,"['K', 'Cu']","['K', 'Cu']"

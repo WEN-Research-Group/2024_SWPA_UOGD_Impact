@@ -1,0 +1,3 @@
+,Significant Difference,WMW,BM
+2024 SWPA(WA) vs SN(WA),2024 SWPA > SN,"['As', 'Ba', 'Cd', 'Ca', 'Cl', 'Pb', 'Li', 'Mg', 'NO3', 'K', 'Na', 'SC', 'Sr']","['As', 'Ba', 'Cd', 'Cl', 'Pb', 'Li', 'Mg', 'NO3', 'K', 'Na', 'SC', 'Sr']"
+2024 SWPA(WA) vs SN(WA),2024 SWPA < SN,"['Benzene', 'Br', 'Ethane', 'Ethylbenzene', 'Fe', 'Mn', 'Methane', 'Propane', 'SO4', 'Toluene', 'Xylene(total)']","['Benzene', 'Br', 'Ethane', 'Ethylbenzene', 'Fe', 'Mn', 'Methane', 'Propane', 'SO4', 'Toluene', 'Xylene(total)']"
