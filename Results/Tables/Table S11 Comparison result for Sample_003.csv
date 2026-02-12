@@ -1,10 +1,3 @@
-,Sample_003,Closest Sample (8.56 m)(2013-11-15),Nearby Samples Min,Nearby Samples Median,Nearby Samples Max,Nearby PADEP Samples (Min),Nearby PADEP Samples (Median),Nearby PADEP Samples (Max)
-SC,501.0,462.0,93.5,542.0,1360.0,168.0,1145.0,25500.0
-Na,6.39,6.22,1.4,14.3,287.0,,,
-Cl,12.5,17.8,2.5,7.0,112.0,2.46,32.7,920.0
-Ba,0.16,0.123,0.025,0.088,0.182,0.00989,0.25,13.9
-SO4,25.3,32.0,2.0,40.65,380.0,,,
-Sr,0.4,0.433,0.037,0.454,1.52,0.0514,1.05,76.4
-Br,0.023,,0.2,0.2,0.28,0.072,0.362,102.0
-Fe,0.005,0.025,0.01,0.13,14.4,0.185,0.185,18.5
-Methane,0.001,2.5,0.002,2.5,6.91,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:63afbb6d318a31636d79652d24814781ac4b017e305790f43ec9b2aa411a0f52
+size 584
