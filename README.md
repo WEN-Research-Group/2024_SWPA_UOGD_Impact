@@ -1,5 +1,7 @@
 # 2024 UOGD Impacts on Groundwater Quality in Southwestern Pennsylvania
 
+[![DOI](https://zenodo.org/badge/1156453732.svg)](https://doi.org/10.5281/zenodo.18627132)
+
 This repository contains materials associated with the article entitled **"Targeted Sampling Reveals Localized Brine Signals Amidst Otherwise Unimpacted Water Quality Near Unconventional Oil and Gas Development"**, submitted to *Water Research*. 
 
 # Project Summary
