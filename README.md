@@ -29,6 +29,7 @@ All datasets used in this study are available in the `Dataset` folder.
 | `Global_Gas_Geochemistry_Inventory_2017.csv` | Global gas geochemistry data from [Owen et al. (2017)](https://doi.org/10.5194/essd-9-639-2017). |
 | `shale_network_washington.csv` | Subset of the Shale Network database ([available here](https://doi.org/10.26208/DT5Y-5B37)) containing groundwater samples collected in Washington County. |
 | `USGS_produced_water_data_2023.xlsx` | USGS National Produced Water Geochemical Database v3.0 from [Blondes et al. (2023)](https://doi.org/10.5066/P9DSRCZJ). |
+| `Geo_lith_landuse.csv` | Geology unit name, major lithologic component, land use, and topographic position index (TPI) for nonextra samples from `2024_swpa_dataset.csv`, labeled by sample group (C, HS, I, S). Used to assess the geologic and land-use comparability of control (C) samples against the other groups. |
 
 
 # Analysis
@@ -42,6 +43,7 @@ All scripts used for statistical and geospatial analyses are included in the `Sc
 | `Figure_2A_gas_geochem.ipynb` | Plots methane (C₁) versus ethane (C₂) + propane (C₃) concentrations against δ¹³C–CH₄ for groundwater samples. | Figure 2(A) |
 | `Figure_2B_Sr_isotope.ipynb` | Plots ⁸⁷Sr/⁸⁶Sr as a function of [Sr]/[Cl] (mg/L) for groundwater samples. | Figure 2(B) |
 | `Figure_2C_2D_Cl_Br_ratio.ipynb` | Plots Cl/Br mass ratios across HS, I, S, and C samples, with comparison to produced water samples. | Figures 2(C), 2(D) |
+| `Figure_S7_control_group.ipynb` | Assesses the geologic and land-use comparability of control (C) samples against the HS, I, and S groups using `Geo_lith_landuse.csv`. Runs Fisher's exact / chi-square tests on geology unit, major lithologic component, and land use, and plots their distributions (plus TPI) by sample group. | Figure S7 |
 
 
 # Figures & Tables

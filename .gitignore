@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Claude Code
+.claude/
+.claude/settings.local.json
+
+# Vscode
+.vscode/
